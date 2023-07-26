@@ -1,5 +1,5 @@
 // Please, open (copy & paste) the following link for the problem description:
-// https://leetcode.com/problems/binary-tree-preorder-traversal/
+// https://leetcode.com/problems/binary-tree-preorder-traversal/description/
 
 /**
  * Definition for a binary tree node.
